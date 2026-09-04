@@ -1,4 +1,4 @@
-# Hi there ~K I'm Hanne! 
+# Hi there 👋 I'm Hanne! 
 
 ---
 
@@ -21,7 +21,7 @@ I'm completely new to the IT field, so I have a lot to learn 👩‍💻
 
 
 ## Fun facts
-- I finished my first  I seek to get experience in programming languages, such as Python, SQL, C and C#degree as a kindergarten teacher back in 2013
+- I finished my first degree as a kindergarten teacher back in 2013
 - In addition of being a full-time student, I'm also a mom. Which means that I do not control my own spare time atm!
 
 ## Goals

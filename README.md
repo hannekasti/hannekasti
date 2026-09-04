@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there ~K I'm Hanne! 
 
-<!--
-**hannekasti/hannekasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Norwegian girl living in Kristiansand with my cute kids and husband 🏡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Interests
+- Sports
+- Music
+- Family life
+
+
+## What I'm currently learning
+I'm completely new to the IT field, so I have a lot to learn 👩‍💻
+
+- Git and GitHub
+- Programming
+- Information systems
+- How technology is used in businesses
+
+
+## Fun facts
+- I finished my first  I seek to get experience in programming languages, such as Python, SQL, C and C#degree as a kindergarten teacher back in 2013
+- In addition of being a full-time student, I'm also a mom. Which means that I do not control my own spare time atm!
+
+## Goals
+I hope to become comfortable in programming and how to use tools such as Git and GitHub. I seek to get experience in programming languages, such as Python, SQL, C and C#.  
+My main goal is to get a degree in IT and informationsystems, and hopefully get a job! 
+
